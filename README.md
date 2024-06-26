@@ -1,2 +1,4 @@
-# csd-380
-A repository for school. 
+# CSD 380 DevOps
+## Contributors:
+* Samuel Litton
+* Darren Osier
